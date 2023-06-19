@@ -38,14 +38,14 @@ This project was inspired by the Customer Churn Prediction dataset on Kaggle. We
 
 # References
 ## Kaggle
-- Title: [Telco Customer Churn]
-- Author: [BLASTCHAR]
-- URL: [https://www.kaggle.com/datasets/blastchar/telco-customer-churn]
+- Title: Telco Customer Churn
+- Author: BLASTCHAR
+- URL: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## YouTube Video
-- Title: [Exploratory Data Analysis in Pandas | Python Pandas Tutorials]
-- Author: [Alex The Analyst]
-- URL: [https://youtu.be/Liv6eeb1VfE]
+- Title: Exploratory Data Analysis in Pandas | Python Pandas Tutorials
+- Author: Alex The Analyst
+- URL: https://youtu.be/Liv6eeb1VfE
 
 ## ChatGPT
 ChatGPT is a large language model developed by OpenAI. It is powered by GPT-3.5, an advanced natural language processing model. ChatGPT is designed to generate human-like responses based on the provided input. This project utilizes ChatGPT for conversational interactions and text generation tasks. The model was trained by OpenAI, and its knowledge is current up to September 2021.
